@@ -202,6 +202,7 @@ p {
     }
     .Lambda_image{
         padding-bottom: 50px;
+        text-align: center;
     }
     .Nav-container{
         display: flex;
@@ -211,18 +212,22 @@ p {
     .Items{
         padding: 10px 10px;
         background: none;
+        color: lightgray;
         border:1px solid black;
         text-decoration: none;  
         text-align: center; 
         border-radius: 12px; 
         justify-content: center;
-        width: 30%; 
-        height: 30px;
+        width: 50%; 
+        height: 50%;
     }
     .Items:hover{
         background-color: lightgrey;
+        color: black;
+
     }
     .jumbo_image{
+        padding: 20px 0 20px 0;
         width: 45%;
         height: 40%;
     }
@@ -242,10 +247,12 @@ p {
         display: flex;
         flex-direction: column;
         align-content: center;
-        padding-left: 10%;
+       padding: 20%;
     }
     .Lambda_image{
         padding-bottom: 50px;
+        padding-left: 20px;
+        
     }
     .Nav-container{
         display: flex;
@@ -255,21 +262,25 @@ p {
     .Items{
         padding: 10px 10px;
         background: none;
+        color: lightgray;
         border:1px solid black;
         text-decoration: none;  
         text-align: center; 
         border-radius: 12px; 
         justify-content: center;
-        width: 30%; 
-        height: 30%;
+        width: 50%; 
+        height: 50%;
     }
     .Items:hover{
         background-color: lightgrey;
+        color: black;
     }
     
     .jumbo_image{
-        width: 80%;
-        height: 60%;
+        
+        padding: 20px 0 20px 0;
+        width: 45%;
+        height: 40%;
        
     }
     .top-content{
